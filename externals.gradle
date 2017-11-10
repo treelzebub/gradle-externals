@@ -4,5 +4,5 @@ ext {
     android_target_sdk  = 26
     android_compile_sdk = 26
     android_build_tools = "26.0.2"
-    android_support_lib = "27.0.1"
+    android_support_lib = "26.1.0"
 }
